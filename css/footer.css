@@ -4,3 +4,17 @@ footer
 	background-color: black;
 
 }
+.icone
+{
+	width: 50px;
+}
+.fontefoot
+{
+	font-family:"Arial Black";
+	color:#b5956a;
+	font-weight: 300;
+	font-size: 1rem;
+	text-decoration: none;
+	list-style: none;
+	text-align: center;
+}
